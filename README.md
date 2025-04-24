@@ -1,4 +1,4 @@
-# REAL TIME FACIAL RECOGINITION ATTENDACNE SYSTEM
+# REAL TIME FACIAL RECOGINITION ATTENDACNE SYSTEM USING FIREBASE
 FEATURES:
 Facial Detection: Identifies and locates human faces in real-time images or video streams.
 Face Recognition: Matches detected faces with stored faces in a database.
